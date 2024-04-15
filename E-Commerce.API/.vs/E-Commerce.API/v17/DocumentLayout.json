@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#-ass\\API\\3\\E-Commerce.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{961A4AB1-ADFA-4DCE-B5EC-42FE5B6B1F5E}|E-Commerce.API\\E-Commerce.API.csproj|d:\\c#-ass\\api\\3\\e-commerce.api\\e-commerce.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961A4AB1-ADFA-4DCE-B5EC-42FE5B6B1F5E}|E-Commerce.API\\E-Commerce.API.csproj|solutionrelative:e-commerce.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961A4AB1-ADFA-4DCE-B5EC-42FE5B6B1F5E}|E-Commerce.API\\E-Commerce.API.csproj|d:\\c#-ass\\api\\3\\e-commerce.api\\e-commerce.api\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961A4AB1-ADFA-4DCE-B5EC-42FE5B6B1F5E}|E-Commerce.API\\E-Commerce.API.csproj|solutionrelative:e-commerce.api\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961A4AB1-ADFA-4DCE-B5EC-42FE5B6B1F5E}|E-Commerce.API\\E-Commerce.API.csproj|d:\\c#-ass\\api\\3\\e-commerce.api\\e-commerce.api\\helper\\cashattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961A4AB1-ADFA-4DCE-B5EC-42FE5B6B1F5E}|E-Commerce.API\\E-Commerce.API.csproj|solutionrelative:e-commerce.api\\helper\\cashattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE4F8DE9-208E-40BA-B68A-9A0876F499E0}|E-Commerce.Services\\E-Commerce.Services.csproj|d:\\c#-ass\\api\\3\\e-commerce.api\\e-commerce.services\\cashservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE4F8DE9-208E-40BA-B68A-9A0876F499E0}|E-Commerce.Services\\E-Commerce.Services.csproj|solutionrelative:e-commerce.services\\cashservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BE054EF-1ED1-4008-B0FF-C80A1D082885}|E-Commerce.Repository\\E-Commerce.Repository.csproj|d:\\c#-ass\\api\\3\\e-commerce.api\\e-commerce.repository\\repositories\\basketrepository.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2BE054EF-1ED1-4008-B0FF-C80A1D082885}|E-Commerce.Repository\\E-Commerce.Repository.csproj|solutionrelative:e-commerce.repository\\repositories\\basketrepository.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB6980B-A684-4E8C-A0D8-B63FBDBEEEC3}|E-Commerce.Core\\E-Commerce.Core.csproj|d:\\c#-ass\\api\\3\\e-commerce.api\\e-commerce.core\\interfaces\\service\\icashservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB6980B-A684-4E8C-A0D8-B63FBDBEEEC3}|E-Commerce.Core\\E-Commerce.Core.csproj|solutionrelative:e-commerce.core\\interfaces\\service\\icashservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE4F8DE9-208E-40BA-B68A-9A0876F499E0}|E-Commerce.Services\\E-Commerce.Services.csproj|d:\\c#-ass\\api\\3\\e-commerce.api\\e-commerce.services\\basketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE4F8DE9-208E-40BA-B68A-9A0876F499E0}|E-Commerce.Services\\E-Commerce.Services.csproj|solutionrelative:e-commerce.services\\basketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\c#-ass\\API\\3\\E-Commerce.API\\E-Commerce.API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "E-Commerce.API\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\c#-ass\\API\\3\\E-Commerce.API\\E-Commerce.API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "E-Commerce.API\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAcwBQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T03:50:35.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CashAttribute.cs",
+              "DocumentMoniker": "D:\\c#-ass\\API\\3\\E-Commerce.API\\E-Commerce.API\\Helper\\CashAttribute.cs",
+              "RelativeDocumentMoniker": "E-Commerce.API\\Helper\\CashAttribute.cs",
+              "ToolTip": "D:\\c#-ass\\API\\3\\E-Commerce.API\\E-Commerce.API\\Helper\\CashAttribute.cs",
+              "RelativeToolTip": "E-Commerce.API\\Helper\\CashAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T03:24:16.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CashService.cs",
+              "DocumentMoniker": "D:\\c#-ass\\API\\3\\E-Commerce.API\\E-Commerce.Services\\CashService.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Services\\CashService.cs",
+              "ToolTip": "D:\\c#-ass\\API\\3\\E-Commerce.API\\E-Commerce.Services\\CashService.cs",
+              "RelativeToolTip": "E-Commerce.Services\\CashService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T03:15:06.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICashService.cs",
+              "DocumentMoniker": "D:\\c#-ass\\API\\3\\E-Commerce.API\\E-Commerce.Core\\Interfaces\\Service\\ICashService.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Core\\Interfaces\\Service\\ICashService.cs",
+              "ToolTip": "D:\\c#-ass\\API\\3\\E-Commerce.API\\E-Commerce.Core\\Interfaces\\Service\\ICashService.cs",
+              "RelativeToolTip": "E-Commerce.Core\\Interfaces\\Service\\ICashService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T03:11:43.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BasketRepository.cs",
+              "DocumentMoniker": "D:\\c#-ass\\API\\3\\E-Commerce.API\\E-Commerce.Repository\\Repositories\\BasketRepository.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Repository\\Repositories\\BasketRepository.cs",
+              "ToolTip": "D:\\c#-ass\\API\\3\\E-Commerce.API\\E-Commerce.Repository\\Repositories\\BasketRepository.cs",
+              "RelativeToolTip": "E-Commerce.Repository\\Repositories\\BasketRepository.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAcwA8AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T02:57:50.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BasketController.cs",
+              "DocumentMoniker": "D:\\c#-ass\\API\\3\\E-Commerce.API\\E-Commerce.API\\Controllers\\BasketController.cs",
+              "RelativeDocumentMoniker": "E-Commerce.API\\Controllers\\BasketController.cs",
+              "ToolTip": "D:\\c#-ass\\API\\3\\E-Commerce.API\\E-Commerce.API\\Controllers\\BasketController.cs",
+              "RelativeToolTip": "E-Commerce.API\\Controllers\\BasketController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAApwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T02:39:37.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BasketService.cs",
+              "DocumentMoniker": "D:\\c#-ass\\API\\3\\E-Commerce.API\\E-Commerce.Services\\BasketService.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Services\\BasketService.cs",
+              "ToolTip": "D:\\c#-ass\\API\\3\\E-Commerce.API\\E-Commerce.Services\\BasketService.cs",
+              "RelativeToolTip": "E-Commerce.Services\\BasketService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T02:36:55.745Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

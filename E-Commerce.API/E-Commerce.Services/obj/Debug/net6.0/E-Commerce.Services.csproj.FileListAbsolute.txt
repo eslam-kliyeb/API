@@ -1,0 +1,17 @@
+D:\c#-ass\API\3\E-Commerce.API\E-Commerce.Services\bin\Debug\net6.0\E-Commerce.Services.deps.json
+D:\c#-ass\API\3\E-Commerce.API\E-Commerce.Services\bin\Debug\net6.0\E-Commerce.Services.dll
+D:\c#-ass\API\3\E-Commerce.API\E-Commerce.Services\bin\Debug\net6.0\E-Commerce.Services.pdb
+D:\c#-ass\API\3\E-Commerce.API\E-Commerce.Services\obj\Debug\net6.0\E-Commerce.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-ass\API\3\E-Commerce.API\E-Commerce.Services\obj\Debug\net6.0\E-Commerce.Services.AssemblyInfoInputs.cache
+D:\c#-ass\API\3\E-Commerce.API\E-Commerce.Services\obj\Debug\net6.0\E-Commerce.Services.AssemblyInfo.cs
+D:\c#-ass\API\3\E-Commerce.API\E-Commerce.Services\obj\Debug\net6.0\E-Commerce.Services.csproj.CoreCompileInputs.cache
+D:\c#-ass\API\3\E-Commerce.API\E-Commerce.Services\obj\Debug\net6.0\E-Commerce.Services.dll
+D:\c#-ass\API\3\E-Commerce.API\E-Commerce.Services\obj\Debug\net6.0\refint\E-Commerce.Services.dll
+D:\c#-ass\API\3\E-Commerce.API\E-Commerce.Services\obj\Debug\net6.0\E-Commerce.Services.pdb
+D:\c#-ass\API\3\E-Commerce.API\E-Commerce.Services\obj\Debug\net6.0\ref\E-Commerce.Services.dll
+D:\c#-ass\API\3\E-Commerce.API\E-Commerce.Services\bin\Debug\net6.0\E-Commerce.Core.dll
+D:\c#-ass\API\3\E-Commerce.API\E-Commerce.Services\bin\Debug\net6.0\E-Commerce.Repository.dll
+D:\c#-ass\API\3\E-Commerce.API\E-Commerce.Services\bin\Debug\net6.0\E-Commerce.Repository.pdb
+D:\c#-ass\API\3\E-Commerce.API\E-Commerce.Services\bin\Debug\net6.0\E-Commerce.Core.pdb
+D:\c#-ass\API\3\E-Commerce.API\E-Commerce.Services\obj\Debug\net6.0\E-Commerce.Services.csproj.AssemblyReference.cache
+D:\c#-ass\API\3\E-Commerce.API\E-Commerce.Services\obj\Debug\net6.0\E-Commer.FC7EA7E1.Up2Date

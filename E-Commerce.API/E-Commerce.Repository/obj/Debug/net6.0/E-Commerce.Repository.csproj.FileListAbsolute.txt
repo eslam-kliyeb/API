@@ -1,0 +1,17 @@
+D:\c#-ass\API\3\E-Commerce.API\E-Commerce.Repository\bin\Debug\net6.0\E-Commerce.Repository.deps.json
+D:\c#-ass\API\3\E-Commerce.API\E-Commerce.Repository\bin\Debug\net6.0\E-Commerce.Repository.runtimeconfig.json
+D:\c#-ass\API\3\E-Commerce.API\E-Commerce.Repository\bin\Debug\net6.0\E-Commerce.Repository.dll
+D:\c#-ass\API\3\E-Commerce.API\E-Commerce.Repository\bin\Debug\net6.0\E-Commerce.Repository.pdb
+D:\c#-ass\API\3\E-Commerce.API\E-Commerce.Repository\bin\Debug\net6.0\E-Commerce.Core.dll
+D:\c#-ass\API\3\E-Commerce.API\E-Commerce.Repository\bin\Debug\net6.0\E-Commerce.Core.pdb
+D:\c#-ass\API\3\E-Commerce.API\E-Commerce.Repository\obj\Debug\net6.0\E-Commerce.Repository.csproj.AssemblyReference.cache
+D:\c#-ass\API\3\E-Commerce.API\E-Commerce.Repository\obj\Debug\net6.0\E-Commerce.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-ass\API\3\E-Commerce.API\E-Commerce.Repository\obj\Debug\net6.0\E-Commerce.Repository.AssemblyInfoInputs.cache
+D:\c#-ass\API\3\E-Commerce.API\E-Commerce.Repository\obj\Debug\net6.0\E-Commerce.Repository.AssemblyInfo.cs
+D:\c#-ass\API\3\E-Commerce.API\E-Commerce.Repository\obj\Debug\net6.0\E-Commerce.Repository.csproj.CoreCompileInputs.cache
+D:\c#-ass\API\3\E-Commerce.API\E-Commerce.Repository\obj\Debug\net6.0\E-Commer.F86D06AD.Up2Date
+D:\c#-ass\API\3\E-Commerce.API\E-Commerce.Repository\obj\Debug\net6.0\E-Commerce.Repository.dll
+D:\c#-ass\API\3\E-Commerce.API\E-Commerce.Repository\obj\Debug\net6.0\refint\E-Commerce.Repository.dll
+D:\c#-ass\API\3\E-Commerce.API\E-Commerce.Repository\obj\Debug\net6.0\E-Commerce.Repository.pdb
+D:\c#-ass\API\3\E-Commerce.API\E-Commerce.Repository\obj\Debug\net6.0\E-Commerce.Repository.genruntimeconfig.cache
+D:\c#-ass\API\3\E-Commerce.API\E-Commerce.Repository\obj\Debug\net6.0\ref\E-Commerce.Repository.dll

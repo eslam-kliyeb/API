@@ -1,0 +1,218 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\c#-ass\\API\\3\\E-Commerce.API\\E-Commerce.Services\\E-Commerce.Services.csproj": {}
+  },
+  "projects": {
+    "D:\\c#-ass\\API\\3\\E-Commerce.API\\E-Commerce.Core\\E-Commerce.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\c#-ass\\API\\3\\E-Commerce.API\\E-Commerce.Core\\E-Commerce.Core.csproj",
+        "projectName": "E-Commerce.Core",
+        "projectPath": "D:\\c#-ass\\API\\3\\E-Commerce.API\\E-Commerce.Core\\E-Commerce.Core.csproj",
+        "packagesPath": "C:\\Users\\win\\.nuget\\packages\\",
+        "outputPath": "D:\\c#-ass\\API\\3\\E-Commerce.API\\E-Commerce.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\win\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\c#-ass\\API\\3\\E-Commerce.API\\E-Commerce.Repository\\E-Commerce.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\c#-ass\\API\\3\\E-Commerce.API\\E-Commerce.Repository\\E-Commerce.Repository.csproj",
+        "projectName": "E-Commerce.Repository",
+        "projectPath": "D:\\c#-ass\\API\\3\\E-Commerce.API\\E-Commerce.Repository\\E-Commerce.Repository.csproj",
+        "packagesPath": "C:\\Users\\win\\.nuget\\packages\\",
+        "outputPath": "D:\\c#-ass\\API\\3\\E-Commerce.API\\E-Commerce.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\win\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\c#-ass\\API\\3\\E-Commerce.API\\E-Commerce.Core\\E-Commerce.Core.csproj": {
+                "projectPath": "D:\\c#-ass\\API\\3\\E-Commerce.API\\E-Commerce.Core\\E-Commerce.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.28, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.28, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.7.33, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\c#-ass\\API\\3\\E-Commerce.API\\E-Commerce.Services\\E-Commerce.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\c#-ass\\API\\3\\E-Commerce.API\\E-Commerce.Services\\E-Commerce.Services.csproj",
+        "projectName": "E-Commerce.Services",
+        "projectPath": "D:\\c#-ass\\API\\3\\E-Commerce.API\\E-Commerce.Services\\E-Commerce.Services.csproj",
+        "packagesPath": "C:\\Users\\win\\.nuget\\packages\\",
+        "outputPath": "D:\\c#-ass\\API\\3\\E-Commerce.API\\E-Commerce.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\win\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\c#-ass\\API\\3\\E-Commerce.API\\E-Commerce.Repository\\E-Commerce.Repository.csproj": {
+                "projectPath": "D:\\c#-ass\\API\\3\\E-Commerce.API\\E-Commerce.Repository\\E-Commerce.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
